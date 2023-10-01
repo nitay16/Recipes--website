@@ -1,0 +1,8 @@
+*.pptx
+node_modules
+.env
+.vscode
+temp_DB_use.js
+#codes/routes/recipes.js
+#codes\routes\recipes.js
+
